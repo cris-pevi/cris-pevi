@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **cris-pevi/cris-pevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Level 1: Simple bio ans Stats -->!
+
+### Hi, I'm Cristhyan!
+💻 Software engineer sharing about my journey and learning in tech </br>
+📚 Studied [Computer science](https://portal.uni.edu.pe/index.php/facultades/ciencias/ciencia-de-la-computacion) at the University of Lima, Peru</br>
+🎨 Making videos about computer Science, tehc,  and productivity on [Yputube](https://portal.uni.edu.pe/index.php/facultades/ciencias/ciencia-de-la-computacion)</br>
+⏰ #learningpublic in my [digital garden](https://magdelinehuang.com/)</br>
+🥢 Currently learning about data analytics and [dataviz] (https://pudding.cool/2018/08/proyects)!</br>
